@@ -4,7 +4,7 @@ const Header = () => {
     <header className="w-full bg-gray-800 text-white shadow-lg">
       <div className="container mx-auto px-6 py-3 flex justify-between items-center">
         <a href="/" className="font-bold text-2xl lg:text-4xl">
-          CRUDs
+          CRUDs - VC
         </a>
         <nav>
           <ul className={`sm:flex block`}>
